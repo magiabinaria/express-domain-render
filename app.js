@@ -50,7 +50,7 @@ text-align: center;
   </head>
   <body>
     <section>
-      Domain for sale </br> Dominio a la venta
+      Domain for sale </br> Dominio a la venta - VENDIDO
 <p><a href="https://www.namecheap.com/market/buynow/rivieravallarta.com/" target="_blank">https://www.namecheap.com/market/buynow/rivieravallarta.com/</a></p>
     </section>
 
